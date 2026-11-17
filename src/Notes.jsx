@@ -54,6 +54,7 @@ export function Notes()
         setEditId(note.id);
     }
     return (
+        
         <>
         <Header />
         <section className="c1 box">

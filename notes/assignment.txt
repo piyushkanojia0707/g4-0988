@@ -1,0 +1,56 @@
+1. React
+React is a JavaScript library used to build websites and user interfaces. 
+It helps developers create fast, interactive, and reusable parts of websites.
+
+2. Components
+Components are small, independent parts of a website.
+It can be reused across projects, saving time and recuding bugs
+
+3. Props
+Props are used to pass data from one component to another. 
+Data is only in read only form.
+
+4. State
+State is information that a component remembers.
+When the state changes, 
+React automatically updates the user interface to show the latest information.
+
+5. JavaScript (JS)
+JavaScript is a programming language that makes websites interactive. 
+It helps us perform actions like clicking buttons, validating forms, and changing content.
+
+6. Functions
+
+7. UI (User Interface)
+
+8. Forms
+
+9. onSubmit
+
+10. onClick
+
+11. Form Validation
+
+12. CSS
+
+13. React Router
+
+14. Multipage Applications
+
+15. Nested Routes
+
+16. Buttons
+
+17. Links
+
+18. Map()
+
+19. Filter()
+
+20. Web Applications
+
+21. UX (User Experience)
+
+22. Zustand
+
+23. Global State Management

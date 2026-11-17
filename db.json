@@ -1,0 +1,8 @@
+{
+  "students": [
+    {"id": 1, "name": "Ansh Bansal", "roll no": "1324"},
+    {"id": 2, "name": "Akhilesh", "roll no": "0092"}
+  ],
+  "products": [],
+  "users": []
+}
